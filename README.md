@@ -15,19 +15,16 @@ Aqui você encontra meus estudos, projetos e evolução! 🚀
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=dayannemacedo-tec&layout=compact&theme=transparent)
-![Stats do GitHub](https://github-readme-stats.vercel.app/api?username=dayannemacedo-tec&show_icons=true&theme=transparent)
-
----
-
 ## 🌐 Onde me encontrar
 
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40px">](https://www.linkedin.com](https://www.linkedin.com/in/dayanemacedo-tec/)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40px">](https://www.linkedin.com/in/dayanemacedo-tec/)
 
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40px">](dayane.macedotec@gmail.com)
 
 ---
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dayannemacedo-tec&color=blue" alt="profile views" /> </p>
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2pnNjVzZ2w1OTZmOWc5ZjB5eGg4Z2Ixc2xkdTEybnVldHd6eHl2ZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ZVik7pBtu9dNS/giphy.gif" width="300px">
 
 ✨ Obrigada por visitar meu perfil! Sempre aprendendo, sempre evoluindo!
